@@ -1,0 +1,6 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+redis>=5.0,<7.0
+langgraph>=0.3,<1.0
+langgraph-checkpoint-redis>=0.1,<1.0
+langsmith>=0.3,<1.0
